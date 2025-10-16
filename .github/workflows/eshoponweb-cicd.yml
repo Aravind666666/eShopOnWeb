@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-NAME
   LOCATION: canadacentral
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: ${{ secrets.AZURE_CREDENTIALS.subscriptionId }}
+  SUBSCRIPTION-ID: 18ceb6b2-c199-44cb-9f9f-0d7a8da5c9aa
   WEBAPP-NAME: eshoponweb-webapp-NAME
 
 
